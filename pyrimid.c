@@ -49,6 +49,29 @@ int main() {
         i++;
     }
 
+    // do whileloop
+    int k=0;
+    do
+    {
+        int s=0;
+        do
+        {
+            printf(" ");
+            s++;
+        } while (s<5-k);
+         int j=0;
+         do
+         {
+            printf("* ");
+            j++;
+         } while (j<k);
+
+
+      printf("\n");
+      k++;           
+    } while (k<5);
+    
+
 
     return 0;
 }
