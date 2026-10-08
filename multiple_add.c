@@ -41,7 +41,7 @@ int main() {
         {
           scanf("%d",&matrix[i][j]);
 
-          sum_matrix[i][j] += matrix[i][j];
+          sum_matrix[i][j] += matrix[i][j]; //sign change kore dilei substitution hoye jabe...
         }
         
       } 
