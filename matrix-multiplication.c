@@ -25,7 +25,7 @@ int main() {
     int matrix2[row2][col2];
     int result[row1][col2];
     
-    if (row1!=col2)
+    if (col1!=row2)
     {
         printf("multiplication not possible ");
         return 1;
