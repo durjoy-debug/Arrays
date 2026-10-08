@@ -1,6 +1,6 @@
 /*═══════════════════════════════════════════════════
 ██╗  ██╗  DURJOY DEV LOG
-██║  ██║  File   : 2d_maximum.c
+██║  ██║  File   : 2d_search_min_count.c
 ███████║  Author : Durjoy
 ██╔══██║  Stack  : C Programming
 ██║  ██║  Date   : 2026-10-08
