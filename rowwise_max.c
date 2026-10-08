@@ -27,9 +27,10 @@ int main() {
         }
         
     }
-    max=array[0][0];
+    
     for (int i = 0; i < row; i++)
-    {
+    {   
+        max=array[i][0];
         for (int j = 0; j<col; j++)
         {
             if (max<array[i][j]) // arrow change korlei minimum ber kora jaibo
