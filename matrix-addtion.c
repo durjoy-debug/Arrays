@@ -44,7 +44,7 @@ int main() {
     {
         for (int j = 0; j < col; j++)
         {
-          sum_matrix[i][j]= matrix1[i][j]+matrix2[i][j];
+          sum_matrix[i][j]= matrix1[i][j]+matrix2[i][j]; // sign change kore dilei substitution hoye jabe
         }
         
     } 
