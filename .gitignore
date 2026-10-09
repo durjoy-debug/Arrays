@@ -1,0 +1,19 @@
+# Ignore compiled binaries
+*.out
+*.o
+*.exe
+
+# Ignore specific extensionless binaries
+matrix-multiplication
+2d_maximum
+2d_search_min_count
+colwise
+inverted_pyramid
+leftside
+matrix-addtion
+multiple_add
+pyrimid
+rightside
+rowwise
+transpose
+
