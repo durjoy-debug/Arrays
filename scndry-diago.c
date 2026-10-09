@@ -8,8 +8,9 @@
 ═══════════════════════════════════════════════════*/
 
 #include <stdio.h>
-   
-int main() {
+
+
+    int main() {
 
      int row,col;
     
@@ -48,6 +49,7 @@ int main() {
       
     }
     
+
 
     return 0;
 }
