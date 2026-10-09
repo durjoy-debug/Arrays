@@ -16,4 +16,7 @@ pyrimid
 rightside
 rowwise
 transpose
-
+/*
+!*/
+!*.c
+!.gitignore
